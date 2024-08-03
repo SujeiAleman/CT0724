@@ -7,6 +7,7 @@ public class Ejemplo_Loop_For {
 		
 		for (int x = 0; x <= y; x++) {
 			System.out.println("Valor de x: " + x);// TODO Auto-generated method stub
+		
 		}
 
 	}
