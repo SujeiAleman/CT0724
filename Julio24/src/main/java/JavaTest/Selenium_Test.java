@@ -1,4 +1,4 @@
-package JavaTest;
+package JavaTest;//SUJEI
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
